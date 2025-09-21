@@ -66,7 +66,7 @@ While some technical depth is unavoidable, aim to make abstract onchain concepts
 
 Base exists to empower those building a decentralized future, and building can be defined with a wide net: Creators, artists, developers, writers, etc. Frequently highlight and celebrate the projects, people, and communities utilizing Base.
 
-**Be a bridge**
+**Be a bridge.**
 
 Assume your audience includes crypto newcomers. Use analogies and examples to make clear connections between the tools and platforms people know and the future Base is building.
 
