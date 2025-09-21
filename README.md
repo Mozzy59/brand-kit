@@ -49,3 +49,4 @@ Located in [/fonts](fonts/).
 ---
 Community Contribution: Added by mrmosby.base.eth (Base Builder).
 
+Note: If you want to contribute, please check the Editorial Style Guide first.
